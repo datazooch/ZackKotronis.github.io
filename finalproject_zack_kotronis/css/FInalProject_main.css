@@ -4,31 +4,36 @@ body {
   margin-right: 0px;
 }
 
-header {
+.header {
   background-color: black;
-  margin-top: -100px;
-  color: white;
-  font-size: 80px;
-  padding: 0px;
-  overflow: hidden;
-  white-space: nowrap;
-  text-indent: -670px;
-  height: 200px;
-  position: fixed;
+  height: 80px;
+  margin: auto;
+  padding:  20px;
+  text-align:  center;
+  width: 100%;
+
 }
+
 h3 {
+  font-family: Georgia, sans-serif;
+  font-size: 35px;
+  color: white;
+
 }
+
 .pad {
   padding: 15px;
   margin: 15px;
-  padding-top: 115px;
+  padding-top: 15px;
 }
+
 .caption {
   font-size: 14px;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 5px
 }
+
 .lowkey {
   font-size: 48px;
   margin-bottom: 20px;
@@ -75,16 +80,20 @@ a {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-footer {
+
+.footer {
   background-color: black;
-  padding: 60px;
-  color: white;
-  height: 200px;  
-  margin-bottom: -20px;
+  height: 180px;
+  margin: auto;
+  padding:  20px;
+  text-align:  center;
+  width: 100%;
 }
+
 .footertext {
   font-size: 14px;
   line-height: 1.5;
+  color: white;
 }
 
 
